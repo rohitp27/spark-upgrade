@@ -16,3 +16,6 @@ project/metals.sbt
 **/.idea/*
 **/venv/*
 *.iml
+
+# Annoying macOS Ignores
+**.DS_Store
